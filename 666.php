@@ -45,7 +45,7 @@ foreach($aData as $registro) {
 		$cota = '<p><span class="label">Cota</span> '.$registro['G'].' (metros desde el suelo) </p>';
 		$lat = '<p><span class="label">Lat</span> '.$registro['E'].'</p>';
 		$lng = '<p><span class="label">Lng</span> '.$registro['F'].'</p>';
-		$el_salto = ($salto == 3) ? '</div><div class="span12">' : '';
+		$el_salto = ($salto == 3) ? '</div><div class="row-fluid">' : '';
 
 		$retorna .= '<div class="span4">'.$tipo./*$minimapa.*/$url.$lat.$lng.$hito.$cota.$ereccion.$datum.$region.$observaciones.'</div>'.$el_salto;
 

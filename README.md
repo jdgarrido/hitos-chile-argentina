@@ -4,7 +4,7 @@ Hitos Limítrofes Chile Argentina
 Corresponde al listado disponible de los Hitos Límitrofes, que demarcan la línea límite con Argentina ubicados en las regiones del sur de Chile. Las ubicaciones están con sus coordenadas geográficas exactas y con la descripción del material del que se está hecho el Hito. 
 
 ##Demo
-http://hitos-limitrofes-chile-argentina.josegarrido.net/
+http://examples.josegarrido.net/hitos/
 
 ##Más información
 http://datos.gob.cl/datasets/ver/2790
